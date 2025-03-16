@@ -212,7 +212,7 @@ ul {
   font-style: italic;
   margin-bottom: 1rem;
   position: relative;
-  margin-left: 20px;
+  margin-left: 30px;
   top: -10px;
 }
 
@@ -859,5 +859,9 @@ footer .credit p {
 
   footer .credit p {
     font-size: 0.8rem;
+  }
+
+  .aside .logo .logo-name {
+    margin-left: 20px;
   }
 }
