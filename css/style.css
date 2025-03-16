@@ -864,4 +864,9 @@ footer .credit p {
   .aside .logo .logo-name {
     margin-left: 20px;
   }
+
+  footer {
+    margin-top: -50px;
+    margin-bottom: 30px;
+  }
 }
